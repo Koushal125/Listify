@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "iosfwd": "cpp",
+    "cstdlib": "cpp",
+    "algorithm": "cpp",
+    "functional": "cpp",
+    "*.tcc": "cpp",
+    "cstdio": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp"
+  }
+}
